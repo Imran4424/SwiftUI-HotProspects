@@ -13,6 +13,7 @@
 		1D710E662B8109E1009BCBE0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D710E652B8109E1009BCBE0 /* Preview Assets.xcassets */; };
 		1D710E6E2B810D6D009BCBE0 /* CodeScanner in Frameworks */ = {isa = PBXBuildFile; productRef = 1D710E6D2B810D6D009BCBE0 /* CodeScanner */; };
 		1D710E702B810D96009BCBE0 /* ProspectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D710E6F2B810D96009BCBE0 /* ProspectsView.swift */; };
+		1D710E722B810E09009BCBE0 /* Prospects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D710E712B810E09009BCBE0 /* Prospects.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1D710E622B8109E1009BCBE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D710E652B8109E1009BCBE0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1D710E6F2B810D96009BCBE0 /* ProspectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProspectsView.swift; sourceTree = "<group>"; };
+		1D710E712B810E09009BCBE0 /* Prospects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prospects.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				1D710E5E2B8109E0009BCBE0 /* HotProspectsApp.swift */,
 				1D710E602B8109E0009BCBE0 /* ContentView.swift */,
+				1D710E712B810E09009BCBE0 /* Prospects.swift */,
 				1D710E6F2B810D96009BCBE0 /* ProspectsView.swift */,
 				1D710E622B8109E1009BCBE0 /* Assets.xcassets */,
 				1D710E642B8109E1009BCBE0 /* Preview Content */,
@@ -149,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D710E702B810D96009BCBE0 /* ProspectsView.swift in Sources */,
+				1D710E722B810E09009BCBE0 /* Prospects.swift in Sources */,
 				1D710E612B8109E0009BCBE0 /* ContentView.swift in Sources */,
 				1D710E5F2B8109E0009BCBE0 /* HotProspectsApp.swift in Sources */,
 			);
